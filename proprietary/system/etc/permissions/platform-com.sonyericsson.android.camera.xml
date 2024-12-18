@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <permission name="com.sonymobile.permission.SECURE_DATA_MANAGER">
+        <group gid="oem_2996" />
+    </permission>
+</permissions>
